@@ -1,5 +1,5 @@
 {
-  "name": "fontkit",
+  "name": "@voyagerx/fontkit",
   "version": "1.7.7",
   "description": "An advanced font engine for Node and the browser",
   "keywords": [
@@ -78,5 +78,8 @@
       "brfs",
       "browserify-optional"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
